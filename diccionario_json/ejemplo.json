@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "data": [
+        {
+            "nombre": "pedrito",
+            "edad": 30,
+            "trabajo": "doctor"
+        },
+        {
+            "nombre": "pablo",
+            "edad": 20,
+            "trabajo": "desarrollador"
+        },
+        {
+            "nombre": "perez",
+            "edad": 18,
+            "trabajo": "enfermero"
+        }
+    ],
+    "json": "Javascript Object Notation"
+}
